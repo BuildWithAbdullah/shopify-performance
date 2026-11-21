@@ -1,0 +1,5189 @@
+{
+  "shopify_perf_input": "theme-settings",
+  "sections_present": [
+    "header",
+    "footer",
+    "product",
+    "collection"
+  ],
+  "setting_requires_section": {},
+  "setting_loads_library": {},
+  "current": {
+    "show_vendor": false,
+    "enable_sticky_header": true
+  },
+  "presets": [
+    {
+      "name": "Preset 0",
+      "section": "legacy-promo-0",
+      "settings": {
+        "heading": "Promotion 0",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-0.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 1",
+      "section": "legacy-promo-1",
+      "settings": {
+        "heading": "Promotion 1",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-1.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 2",
+      "section": "legacy-promo-2",
+      "settings": {
+        "heading": "Promotion 2",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-2.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 3",
+      "section": "legacy-promo-3",
+      "settings": {
+        "heading": "Promotion 3",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-3.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 4",
+      "section": "legacy-promo-4",
+      "settings": {
+        "heading": "Promotion 4",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-4.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 5",
+      "section": "legacy-promo-5",
+      "settings": {
+        "heading": "Promotion 5",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-5.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 6",
+      "section": "legacy-promo-6",
+      "settings": {
+        "heading": "Promotion 6",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-6.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 7",
+      "section": "legacy-promo-7",
+      "settings": {
+        "heading": "Promotion 7",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-7.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 8",
+      "section": "legacy-promo-8",
+      "settings": {
+        "heading": "Promotion 8",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-8.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 9",
+      "section": "legacy-promo-9",
+      "settings": {
+        "heading": "Promotion 9",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-9.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 10",
+      "section": "legacy-promo-10",
+      "settings": {
+        "heading": "Promotion 10",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-10.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 11",
+      "section": "legacy-promo-11",
+      "settings": {
+        "heading": "Promotion 11",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-11.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 12",
+      "section": "legacy-promo-12",
+      "settings": {
+        "heading": "Promotion 12",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-12.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 13",
+      "section": "legacy-promo-13",
+      "settings": {
+        "heading": "Promotion 13",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-13.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 14",
+      "section": "legacy-promo-14",
+      "settings": {
+        "heading": "Promotion 14",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-14.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 15",
+      "section": "legacy-promo-15",
+      "settings": {
+        "heading": "Promotion 15",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-15.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 16",
+      "section": "legacy-promo-16",
+      "settings": {
+        "heading": "Promotion 16",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-16.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 17",
+      "section": "legacy-promo-17",
+      "settings": {
+        "heading": "Promotion 17",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-17.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 18",
+      "section": "legacy-promo-18",
+      "settings": {
+        "heading": "Promotion 18",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-18.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 19",
+      "section": "legacy-promo-19",
+      "settings": {
+        "heading": "Promotion 19",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-19.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 20",
+      "section": "legacy-promo-20",
+      "settings": {
+        "heading": "Promotion 20",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-20.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 21",
+      "section": "legacy-promo-21",
+      "settings": {
+        "heading": "Promotion 21",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-21.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 22",
+      "section": "legacy-promo-22",
+      "settings": {
+        "heading": "Promotion 22",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-22.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 23",
+      "section": "legacy-promo-23",
+      "settings": {
+        "heading": "Promotion 23",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-23.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 24",
+      "section": "legacy-promo-24",
+      "settings": {
+        "heading": "Promotion 24",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-24.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 25",
+      "section": "legacy-promo-25",
+      "settings": {
+        "heading": "Promotion 25",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-25.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 26",
+      "section": "legacy-promo-26",
+      "settings": {
+        "heading": "Promotion 26",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-26.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 27",
+      "section": "legacy-promo-27",
+      "settings": {
+        "heading": "Promotion 27",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-27.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 28",
+      "section": "legacy-promo-28",
+      "settings": {
+        "heading": "Promotion 28",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-28.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 29",
+      "section": "legacy-promo-29",
+      "settings": {
+        "heading": "Promotion 29",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-29.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 30",
+      "section": "legacy-promo-30",
+      "settings": {
+        "heading": "Promotion 30",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-30.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 31",
+      "section": "legacy-promo-31",
+      "settings": {
+        "heading": "Promotion 31",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-31.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 32",
+      "section": "legacy-promo-32",
+      "settings": {
+        "heading": "Promotion 32",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-32.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 33",
+      "section": "legacy-promo-33",
+      "settings": {
+        "heading": "Promotion 33",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-33.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 34",
+      "section": "legacy-promo-34",
+      "settings": {
+        "heading": "Promotion 34",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-34.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 35",
+      "section": "legacy-promo-35",
+      "settings": {
+        "heading": "Promotion 35",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-35.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 36",
+      "section": "legacy-promo-36",
+      "settings": {
+        "heading": "Promotion 36",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-36.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 37",
+      "section": "legacy-promo-37",
+      "settings": {
+        "heading": "Promotion 37",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-37.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 38",
+      "section": "legacy-promo-38",
+      "settings": {
+        "heading": "Promotion 38",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-38.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 39",
+      "section": "legacy-promo-39",
+      "settings": {
+        "heading": "Promotion 39",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-39.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 40",
+      "section": "legacy-promo-40",
+      "settings": {
+        "heading": "Promotion 40",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-40.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 41",
+      "section": "legacy-promo-41",
+      "settings": {
+        "heading": "Promotion 41",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-41.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 42",
+      "section": "legacy-promo-42",
+      "settings": {
+        "heading": "Promotion 42",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-42.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 43",
+      "section": "legacy-promo-43",
+      "settings": {
+        "heading": "Promotion 43",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-43.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 44",
+      "section": "legacy-promo-44",
+      "settings": {
+        "heading": "Promotion 44",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-44.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 45",
+      "section": "legacy-promo-45",
+      "settings": {
+        "heading": "Promotion 45",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-45.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 46",
+      "section": "legacy-promo-46",
+      "settings": {
+        "heading": "Promotion 46",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-46.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 47",
+      "section": "legacy-promo-47",
+      "settings": {
+        "heading": "Promotion 47",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-47.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 48",
+      "section": "legacy-promo-48",
+      "settings": {
+        "heading": "Promotion 48",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-48.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 49",
+      "section": "legacy-promo-49",
+      "settings": {
+        "heading": "Promotion 49",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-49.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 50",
+      "section": "legacy-promo-50",
+      "settings": {
+        "heading": "Promotion 50",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-50.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 51",
+      "section": "legacy-promo-51",
+      "settings": {
+        "heading": "Promotion 51",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-51.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 52",
+      "section": "legacy-promo-52",
+      "settings": {
+        "heading": "Promotion 52",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-52.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 53",
+      "section": "legacy-promo-53",
+      "settings": {
+        "heading": "Promotion 53",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-53.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 54",
+      "section": "legacy-promo-54",
+      "settings": {
+        "heading": "Promotion 54",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-54.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 55",
+      "section": "legacy-promo-55",
+      "settings": {
+        "heading": "Promotion 55",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-55.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 56",
+      "section": "legacy-promo-56",
+      "settings": {
+        "heading": "Promotion 56",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-56.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 57",
+      "section": "legacy-promo-57",
+      "settings": {
+        "heading": "Promotion 57",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-57.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 58",
+      "section": "legacy-promo-58",
+      "settings": {
+        "heading": "Promotion 58",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-58.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 59",
+      "section": "legacy-promo-59",
+      "settings": {
+        "heading": "Promotion 59",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-59.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 60",
+      "section": "legacy-promo-60",
+      "settings": {
+        "heading": "Promotion 60",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-60.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 61",
+      "section": "legacy-promo-61",
+      "settings": {
+        "heading": "Promotion 61",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-61.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 62",
+      "section": "legacy-promo-62",
+      "settings": {
+        "heading": "Promotion 62",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-62.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 63",
+      "section": "legacy-promo-63",
+      "settings": {
+        "heading": "Promotion 63",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-63.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 64",
+      "section": "legacy-promo-64",
+      "settings": {
+        "heading": "Promotion 64",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-64.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 65",
+      "section": "legacy-promo-65",
+      "settings": {
+        "heading": "Promotion 65",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-65.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 66",
+      "section": "legacy-promo-66",
+      "settings": {
+        "heading": "Promotion 66",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-66.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 67",
+      "section": "legacy-promo-67",
+      "settings": {
+        "heading": "Promotion 67",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-67.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 68",
+      "section": "legacy-promo-68",
+      "settings": {
+        "heading": "Promotion 68",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-68.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 69",
+      "section": "legacy-promo-69",
+      "settings": {
+        "heading": "Promotion 69",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-69.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 70",
+      "section": "legacy-promo-70",
+      "settings": {
+        "heading": "Promotion 70",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-70.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 71",
+      "section": "legacy-promo-71",
+      "settings": {
+        "heading": "Promotion 71",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-71.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 72",
+      "section": "legacy-promo-72",
+      "settings": {
+        "heading": "Promotion 72",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-72.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 73",
+      "section": "legacy-promo-73",
+      "settings": {
+        "heading": "Promotion 73",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-73.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 74",
+      "section": "legacy-promo-74",
+      "settings": {
+        "heading": "Promotion 74",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-74.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 75",
+      "section": "legacy-promo-75",
+      "settings": {
+        "heading": "Promotion 75",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-75.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 76",
+      "section": "legacy-promo-76",
+      "settings": {
+        "heading": "Promotion 76",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-76.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 77",
+      "section": "legacy-promo-77",
+      "settings": {
+        "heading": "Promotion 77",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-77.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 78",
+      "section": "legacy-promo-78",
+      "settings": {
+        "heading": "Promotion 78",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-78.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 79",
+      "section": "legacy-promo-79",
+      "settings": {
+        "heading": "Promotion 79",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-79.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 80",
+      "section": "legacy-promo-80",
+      "settings": {
+        "heading": "Promotion 80",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-80.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 81",
+      "section": "legacy-promo-81",
+      "settings": {
+        "heading": "Promotion 81",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-81.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 82",
+      "section": "legacy-promo-82",
+      "settings": {
+        "heading": "Promotion 82",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-82.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 83",
+      "section": "legacy-promo-83",
+      "settings": {
+        "heading": "Promotion 83",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-83.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 84",
+      "section": "legacy-promo-84",
+      "settings": {
+        "heading": "Promotion 84",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-84.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 85",
+      "section": "legacy-promo-85",
+      "settings": {
+        "heading": "Promotion 85",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-85.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 86",
+      "section": "legacy-promo-86",
+      "settings": {
+        "heading": "Promotion 86",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-86.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 87",
+      "section": "legacy-promo-87",
+      "settings": {
+        "heading": "Promotion 87",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-87.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 88",
+      "section": "legacy-promo-88",
+      "settings": {
+        "heading": "Promotion 88",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-88.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 89",
+      "section": "legacy-promo-89",
+      "settings": {
+        "heading": "Promotion 89",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-89.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 90",
+      "section": "legacy-promo-90",
+      "settings": {
+        "heading": "Promotion 90",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-90.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 91",
+      "section": "legacy-promo-91",
+      "settings": {
+        "heading": "Promotion 91",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-91.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 92",
+      "section": "legacy-promo-92",
+      "settings": {
+        "heading": "Promotion 92",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-92.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 93",
+      "section": "legacy-promo-93",
+      "settings": {
+        "heading": "Promotion 93",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-93.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 94",
+      "section": "legacy-promo-94",
+      "settings": {
+        "heading": "Promotion 94",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-94.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 95",
+      "section": "legacy-promo-95",
+      "settings": {
+        "heading": "Promotion 95",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-95.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 96",
+      "section": "legacy-promo-96",
+      "settings": {
+        "heading": "Promotion 96",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-96.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 97",
+      "section": "legacy-promo-97",
+      "settings": {
+        "heading": "Promotion 97",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-97.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 98",
+      "section": "legacy-promo-98",
+      "settings": {
+        "heading": "Promotion 98",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-98.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 99",
+      "section": "legacy-promo-99",
+      "settings": {
+        "heading": "Promotion 99",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-99.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 100",
+      "section": "legacy-promo-100",
+      "settings": {
+        "heading": "Promotion 100",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-100.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 101",
+      "section": "legacy-promo-101",
+      "settings": {
+        "heading": "Promotion 101",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-101.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 102",
+      "section": "legacy-promo-102",
+      "settings": {
+        "heading": "Promotion 102",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-102.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 103",
+      "section": "legacy-promo-103",
+      "settings": {
+        "heading": "Promotion 103",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-103.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 104",
+      "section": "legacy-promo-104",
+      "settings": {
+        "heading": "Promotion 104",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-104.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 105",
+      "section": "legacy-promo-105",
+      "settings": {
+        "heading": "Promotion 105",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-105.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 106",
+      "section": "legacy-promo-106",
+      "settings": {
+        "heading": "Promotion 106",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-106.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 107",
+      "section": "legacy-promo-107",
+      "settings": {
+        "heading": "Promotion 107",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-107.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 108",
+      "section": "legacy-promo-108",
+      "settings": {
+        "heading": "Promotion 108",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-108.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 109",
+      "section": "legacy-promo-109",
+      "settings": {
+        "heading": "Promotion 109",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-109.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 110",
+      "section": "legacy-promo-110",
+      "settings": {
+        "heading": "Promotion 110",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-110.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 111",
+      "section": "legacy-promo-111",
+      "settings": {
+        "heading": "Promotion 111",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-111.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 112",
+      "section": "legacy-promo-112",
+      "settings": {
+        "heading": "Promotion 112",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-112.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 113",
+      "section": "legacy-promo-113",
+      "settings": {
+        "heading": "Promotion 113",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-113.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 114",
+      "section": "legacy-promo-114",
+      "settings": {
+        "heading": "Promotion 114",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-114.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 115",
+      "section": "legacy-promo-115",
+      "settings": {
+        "heading": "Promotion 115",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-115.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 116",
+      "section": "legacy-promo-116",
+      "settings": {
+        "heading": "Promotion 116",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-116.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 117",
+      "section": "legacy-promo-117",
+      "settings": {
+        "heading": "Promotion 117",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-117.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 118",
+      "section": "legacy-promo-118",
+      "settings": {
+        "heading": "Promotion 118",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-118.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 119",
+      "section": "legacy-promo-119",
+      "settings": {
+        "heading": "Promotion 119",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-119.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 120",
+      "section": "legacy-promo-120",
+      "settings": {
+        "heading": "Promotion 120",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-120.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 121",
+      "section": "legacy-promo-121",
+      "settings": {
+        "heading": "Promotion 121",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-121.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 122",
+      "section": "legacy-promo-122",
+      "settings": {
+        "heading": "Promotion 122",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-122.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 123",
+      "section": "legacy-promo-123",
+      "settings": {
+        "heading": "Promotion 123",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-123.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 124",
+      "section": "legacy-promo-124",
+      "settings": {
+        "heading": "Promotion 124",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-124.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 125",
+      "section": "legacy-promo-125",
+      "settings": {
+        "heading": "Promotion 125",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-125.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 126",
+      "section": "legacy-promo-126",
+      "settings": {
+        "heading": "Promotion 126",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-126.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 127",
+      "section": "legacy-promo-127",
+      "settings": {
+        "heading": "Promotion 127",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-127.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 128",
+      "section": "legacy-promo-128",
+      "settings": {
+        "heading": "Promotion 128",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-128.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 129",
+      "section": "legacy-promo-129",
+      "settings": {
+        "heading": "Promotion 129",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-129.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 130",
+      "section": "legacy-promo-130",
+      "settings": {
+        "heading": "Promotion 130",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-130.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 131",
+      "section": "legacy-promo-131",
+      "settings": {
+        "heading": "Promotion 131",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-131.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 132",
+      "section": "legacy-promo-132",
+      "settings": {
+        "heading": "Promotion 132",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-132.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 133",
+      "section": "legacy-promo-133",
+      "settings": {
+        "heading": "Promotion 133",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-133.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 134",
+      "section": "legacy-promo-134",
+      "settings": {
+        "heading": "Promotion 134",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-134.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 135",
+      "section": "legacy-promo-135",
+      "settings": {
+        "heading": "Promotion 135",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-135.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 136",
+      "section": "legacy-promo-136",
+      "settings": {
+        "heading": "Promotion 136",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-136.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 137",
+      "section": "legacy-promo-137",
+      "settings": {
+        "heading": "Promotion 137",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-137.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 138",
+      "section": "legacy-promo-138",
+      "settings": {
+        "heading": "Promotion 138",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-138.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 139",
+      "section": "legacy-promo-139",
+      "settings": {
+        "heading": "Promotion 139",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-139.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 140",
+      "section": "legacy-promo-140",
+      "settings": {
+        "heading": "Promotion 140",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-140.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 141",
+      "section": "legacy-promo-141",
+      "settings": {
+        "heading": "Promotion 141",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-141.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 142",
+      "section": "legacy-promo-142",
+      "settings": {
+        "heading": "Promotion 142",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-142.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 143",
+      "section": "legacy-promo-143",
+      "settings": {
+        "heading": "Promotion 143",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-143.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 144",
+      "section": "legacy-promo-144",
+      "settings": {
+        "heading": "Promotion 144",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-144.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 145",
+      "section": "legacy-promo-145",
+      "settings": {
+        "heading": "Promotion 145",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-145.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 146",
+      "section": "legacy-promo-146",
+      "settings": {
+        "heading": "Promotion 146",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-146.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 147",
+      "section": "legacy-promo-147",
+      "settings": {
+        "heading": "Promotion 147",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-147.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 148",
+      "section": "legacy-promo-148",
+      "settings": {
+        "heading": "Promotion 148",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-148.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 149",
+      "section": "legacy-promo-149",
+      "settings": {
+        "heading": "Promotion 149",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-149.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 150",
+      "section": "legacy-promo-150",
+      "settings": {
+        "heading": "Promotion 150",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-150.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 151",
+      "section": "legacy-promo-151",
+      "settings": {
+        "heading": "Promotion 151",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-151.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 152",
+      "section": "legacy-promo-152",
+      "settings": {
+        "heading": "Promotion 152",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-152.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 153",
+      "section": "legacy-promo-153",
+      "settings": {
+        "heading": "Promotion 153",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-153.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 154",
+      "section": "legacy-promo-154",
+      "settings": {
+        "heading": "Promotion 154",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-154.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 155",
+      "section": "legacy-promo-155",
+      "settings": {
+        "heading": "Promotion 155",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-155.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 156",
+      "section": "legacy-promo-156",
+      "settings": {
+        "heading": "Promotion 156",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-156.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 157",
+      "section": "legacy-promo-157",
+      "settings": {
+        "heading": "Promotion 157",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-157.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 158",
+      "section": "legacy-promo-158",
+      "settings": {
+        "heading": "Promotion 158",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-158.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 159",
+      "section": "legacy-promo-159",
+      "settings": {
+        "heading": "Promotion 159",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-159.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 160",
+      "section": "legacy-promo-160",
+      "settings": {
+        "heading": "Promotion 160",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-160.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 161",
+      "section": "legacy-promo-161",
+      "settings": {
+        "heading": "Promotion 161",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-161.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 162",
+      "section": "legacy-promo-162",
+      "settings": {
+        "heading": "Promotion 162",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-162.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 163",
+      "section": "legacy-promo-163",
+      "settings": {
+        "heading": "Promotion 163",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-163.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 164",
+      "section": "legacy-promo-164",
+      "settings": {
+        "heading": "Promotion 164",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-164.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 165",
+      "section": "legacy-promo-165",
+      "settings": {
+        "heading": "Promotion 165",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-165.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 166",
+      "section": "legacy-promo-166",
+      "settings": {
+        "heading": "Promotion 166",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-166.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 167",
+      "section": "legacy-promo-167",
+      "settings": {
+        "heading": "Promotion 167",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-167.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 168",
+      "section": "legacy-promo-168",
+      "settings": {
+        "heading": "Promotion 168",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-168.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 169",
+      "section": "legacy-promo-169",
+      "settings": {
+        "heading": "Promotion 169",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-169.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 170",
+      "section": "legacy-promo-170",
+      "settings": {
+        "heading": "Promotion 170",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-170.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 171",
+      "section": "legacy-promo-171",
+      "settings": {
+        "heading": "Promotion 171",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-171.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 172",
+      "section": "legacy-promo-172",
+      "settings": {
+        "heading": "Promotion 172",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-172.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 173",
+      "section": "legacy-promo-173",
+      "settings": {
+        "heading": "Promotion 173",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-173.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 174",
+      "section": "legacy-promo-174",
+      "settings": {
+        "heading": "Promotion 174",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-174.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 175",
+      "section": "legacy-promo-175",
+      "settings": {
+        "heading": "Promotion 175",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-175.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 176",
+      "section": "legacy-promo-176",
+      "settings": {
+        "heading": "Promotion 176",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-176.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 177",
+      "section": "legacy-promo-177",
+      "settings": {
+        "heading": "Promotion 177",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-177.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 178",
+      "section": "legacy-promo-178",
+      "settings": {
+        "heading": "Promotion 178",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-178.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 179",
+      "section": "legacy-promo-179",
+      "settings": {
+        "heading": "Promotion 179",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-179.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 180",
+      "section": "legacy-promo-180",
+      "settings": {
+        "heading": "Promotion 180",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-180.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 181",
+      "section": "legacy-promo-181",
+      "settings": {
+        "heading": "Promotion 181",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-181.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 182",
+      "section": "legacy-promo-182",
+      "settings": {
+        "heading": "Promotion 182",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-182.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 183",
+      "section": "legacy-promo-183",
+      "settings": {
+        "heading": "Promotion 183",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-183.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 184",
+      "section": "legacy-promo-184",
+      "settings": {
+        "heading": "Promotion 184",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-184.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 185",
+      "section": "legacy-promo-185",
+      "settings": {
+        "heading": "Promotion 185",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-185.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 186",
+      "section": "legacy-promo-186",
+      "settings": {
+        "heading": "Promotion 186",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-186.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 187",
+      "section": "legacy-promo-187",
+      "settings": {
+        "heading": "Promotion 187",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-187.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 188",
+      "section": "legacy-promo-188",
+      "settings": {
+        "heading": "Promotion 188",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-188.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 189",
+      "section": "legacy-promo-189",
+      "settings": {
+        "heading": "Promotion 189",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-189.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 190",
+      "section": "legacy-promo-190",
+      "settings": {
+        "heading": "Promotion 190",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-190.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 191",
+      "section": "legacy-promo-191",
+      "settings": {
+        "heading": "Promotion 191",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-191.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 192",
+      "section": "legacy-promo-192",
+      "settings": {
+        "heading": "Promotion 192",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-192.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 193",
+      "section": "legacy-promo-193",
+      "settings": {
+        "heading": "Promotion 193",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-193.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 194",
+      "section": "legacy-promo-194",
+      "settings": {
+        "heading": "Promotion 194",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-194.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 195",
+      "section": "legacy-promo-195",
+      "settings": {
+        "heading": "Promotion 195",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-195.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 196",
+      "section": "legacy-promo-196",
+      "settings": {
+        "heading": "Promotion 196",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-196.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 197",
+      "section": "legacy-promo-197",
+      "settings": {
+        "heading": "Promotion 197",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-197.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 198",
+      "section": "legacy-promo-198",
+      "settings": {
+        "heading": "Promotion 198",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-198.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 199",
+      "section": "legacy-promo-199",
+      "settings": {
+        "heading": "Promotion 199",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-199.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 200",
+      "section": "legacy-promo-200",
+      "settings": {
+        "heading": "Promotion 200",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-200.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 201",
+      "section": "legacy-promo-201",
+      "settings": {
+        "heading": "Promotion 201",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-201.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 202",
+      "section": "legacy-promo-202",
+      "settings": {
+        "heading": "Promotion 202",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-202.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 203",
+      "section": "legacy-promo-203",
+      "settings": {
+        "heading": "Promotion 203",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-203.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 204",
+      "section": "legacy-promo-204",
+      "settings": {
+        "heading": "Promotion 204",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-204.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 205",
+      "section": "legacy-promo-205",
+      "settings": {
+        "heading": "Promotion 205",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-205.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 206",
+      "section": "legacy-promo-206",
+      "settings": {
+        "heading": "Promotion 206",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-206.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 207",
+      "section": "legacy-promo-207",
+      "settings": {
+        "heading": "Promotion 207",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-207.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 208",
+      "section": "legacy-promo-208",
+      "settings": {
+        "heading": "Promotion 208",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-208.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 209",
+      "section": "legacy-promo-209",
+      "settings": {
+        "heading": "Promotion 209",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-209.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 210",
+      "section": "legacy-promo-210",
+      "settings": {
+        "heading": "Promotion 210",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-210.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 211",
+      "section": "legacy-promo-211",
+      "settings": {
+        "heading": "Promotion 211",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-211.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 212",
+      "section": "legacy-promo-212",
+      "settings": {
+        "heading": "Promotion 212",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-212.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 213",
+      "section": "legacy-promo-213",
+      "settings": {
+        "heading": "Promotion 213",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-213.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 214",
+      "section": "legacy-promo-214",
+      "settings": {
+        "heading": "Promotion 214",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-214.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 215",
+      "section": "legacy-promo-215",
+      "settings": {
+        "heading": "Promotion 215",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-215.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 216",
+      "section": "legacy-promo-216",
+      "settings": {
+        "heading": "Promotion 216",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-216.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 217",
+      "section": "legacy-promo-217",
+      "settings": {
+        "heading": "Promotion 217",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-217.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 218",
+      "section": "legacy-promo-218",
+      "settings": {
+        "heading": "Promotion 218",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-218.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 219",
+      "section": "legacy-promo-219",
+      "settings": {
+        "heading": "Promotion 219",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-219.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 220",
+      "section": "legacy-promo-220",
+      "settings": {
+        "heading": "Promotion 220",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-220.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 221",
+      "section": "legacy-promo-221",
+      "settings": {
+        "heading": "Promotion 221",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-221.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 222",
+      "section": "legacy-promo-222",
+      "settings": {
+        "heading": "Promotion 222",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-222.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 223",
+      "section": "legacy-promo-223",
+      "settings": {
+        "heading": "Promotion 223",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-223.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 224",
+      "section": "legacy-promo-224",
+      "settings": {
+        "heading": "Promotion 224",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-224.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 225",
+      "section": "legacy-promo-225",
+      "settings": {
+        "heading": "Promotion 225",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-225.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 226",
+      "section": "legacy-promo-226",
+      "settings": {
+        "heading": "Promotion 226",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-226.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 227",
+      "section": "legacy-promo-227",
+      "settings": {
+        "heading": "Promotion 227",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-227.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 228",
+      "section": "legacy-promo-228",
+      "settings": {
+        "heading": "Promotion 228",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-228.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 229",
+      "section": "legacy-promo-229",
+      "settings": {
+        "heading": "Promotion 229",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-229.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 230",
+      "section": "legacy-promo-230",
+      "settings": {
+        "heading": "Promotion 230",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-230.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 231",
+      "section": "legacy-promo-231",
+      "settings": {
+        "heading": "Promotion 231",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-231.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 232",
+      "section": "legacy-promo-232",
+      "settings": {
+        "heading": "Promotion 232",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-232.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 233",
+      "section": "legacy-promo-233",
+      "settings": {
+        "heading": "Promotion 233",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-233.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 234",
+      "section": "legacy-promo-234",
+      "settings": {
+        "heading": "Promotion 234",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-234.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 235",
+      "section": "legacy-promo-235",
+      "settings": {
+        "heading": "Promotion 235",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-235.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 236",
+      "section": "legacy-promo-236",
+      "settings": {
+        "heading": "Promotion 236",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-236.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 237",
+      "section": "legacy-promo-237",
+      "settings": {
+        "heading": "Promotion 237",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-237.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 238",
+      "section": "legacy-promo-238",
+      "settings": {
+        "heading": "Promotion 238",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-238.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 239",
+      "section": "legacy-promo-239",
+      "settings": {
+        "heading": "Promotion 239",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-239.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 240",
+      "section": "legacy-promo-240",
+      "settings": {
+        "heading": "Promotion 240",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-240.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 241",
+      "section": "legacy-promo-241",
+      "settings": {
+        "heading": "Promotion 241",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-241.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 242",
+      "section": "legacy-promo-242",
+      "settings": {
+        "heading": "Promotion 242",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-242.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 243",
+      "section": "legacy-promo-243",
+      "settings": {
+        "heading": "Promotion 243",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-243.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 244",
+      "section": "legacy-promo-244",
+      "settings": {
+        "heading": "Promotion 244",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-244.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 245",
+      "section": "legacy-promo-245",
+      "settings": {
+        "heading": "Promotion 245",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-245.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 246",
+      "section": "legacy-promo-246",
+      "settings": {
+        "heading": "Promotion 246",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-246.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 247",
+      "section": "legacy-promo-247",
+      "settings": {
+        "heading": "Promotion 247",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-247.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 248",
+      "section": "legacy-promo-248",
+      "settings": {
+        "heading": "Promotion 248",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-248.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 249",
+      "section": "legacy-promo-249",
+      "settings": {
+        "heading": "Promotion 249",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-249.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 250",
+      "section": "legacy-promo-250",
+      "settings": {
+        "heading": "Promotion 250",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-250.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 251",
+      "section": "legacy-promo-251",
+      "settings": {
+        "heading": "Promotion 251",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-251.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 252",
+      "section": "legacy-promo-252",
+      "settings": {
+        "heading": "Promotion 252",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-252.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 253",
+      "section": "legacy-promo-253",
+      "settings": {
+        "heading": "Promotion 253",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-253.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 254",
+      "section": "legacy-promo-254",
+      "settings": {
+        "heading": "Promotion 254",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-254.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 255",
+      "section": "legacy-promo-255",
+      "settings": {
+        "heading": "Promotion 255",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-255.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 256",
+      "section": "legacy-promo-256",
+      "settings": {
+        "heading": "Promotion 256",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-256.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 257",
+      "section": "legacy-promo-257",
+      "settings": {
+        "heading": "Promotion 257",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-257.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 258",
+      "section": "legacy-promo-258",
+      "settings": {
+        "heading": "Promotion 258",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-258.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 259",
+      "section": "legacy-promo-259",
+      "settings": {
+        "heading": "Promotion 259",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-259.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 260",
+      "section": "legacy-promo-260",
+      "settings": {
+        "heading": "Promotion 260",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-260.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 261",
+      "section": "legacy-promo-261",
+      "settings": {
+        "heading": "Promotion 261",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-261.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 262",
+      "section": "legacy-promo-262",
+      "settings": {
+        "heading": "Promotion 262",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-262.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 263",
+      "section": "legacy-promo-263",
+      "settings": {
+        "heading": "Promotion 263",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-263.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 264",
+      "section": "legacy-promo-264",
+      "settings": {
+        "heading": "Promotion 264",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-264.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 265",
+      "section": "legacy-promo-265",
+      "settings": {
+        "heading": "Promotion 265",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-265.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 266",
+      "section": "legacy-promo-266",
+      "settings": {
+        "heading": "Promotion 266",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-266.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 267",
+      "section": "legacy-promo-267",
+      "settings": {
+        "heading": "Promotion 267",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-267.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 268",
+      "section": "legacy-promo-268",
+      "settings": {
+        "heading": "Promotion 268",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-268.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 269",
+      "section": "legacy-promo-269",
+      "settings": {
+        "heading": "Promotion 269",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-269.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 270",
+      "section": "legacy-promo-270",
+      "settings": {
+        "heading": "Promotion 270",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-270.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 271",
+      "section": "legacy-promo-271",
+      "settings": {
+        "heading": "Promotion 271",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-271.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 272",
+      "section": "legacy-promo-272",
+      "settings": {
+        "heading": "Promotion 272",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-272.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 273",
+      "section": "legacy-promo-273",
+      "settings": {
+        "heading": "Promotion 273",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-273.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 274",
+      "section": "legacy-promo-274",
+      "settings": {
+        "heading": "Promotion 274",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-274.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 275",
+      "section": "legacy-promo-275",
+      "settings": {
+        "heading": "Promotion 275",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-275.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 276",
+      "section": "legacy-promo-276",
+      "settings": {
+        "heading": "Promotion 276",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-276.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 277",
+      "section": "legacy-promo-277",
+      "settings": {
+        "heading": "Promotion 277",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-277.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 278",
+      "section": "legacy-promo-278",
+      "settings": {
+        "heading": "Promotion 278",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-278.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 279",
+      "section": "legacy-promo-279",
+      "settings": {
+        "heading": "Promotion 279",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-279.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 280",
+      "section": "legacy-promo-280",
+      "settings": {
+        "heading": "Promotion 280",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-280.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 281",
+      "section": "legacy-promo-281",
+      "settings": {
+        "heading": "Promotion 281",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-281.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 282",
+      "section": "legacy-promo-282",
+      "settings": {
+        "heading": "Promotion 282",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-282.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 283",
+      "section": "legacy-promo-283",
+      "settings": {
+        "heading": "Promotion 283",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-283.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 284",
+      "section": "legacy-promo-284",
+      "settings": {
+        "heading": "Promotion 284",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-284.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 285",
+      "section": "legacy-promo-285",
+      "settings": {
+        "heading": "Promotion 285",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-285.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 286",
+      "section": "legacy-promo-286",
+      "settings": {
+        "heading": "Promotion 286",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-286.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 287",
+      "section": "legacy-promo-287",
+      "settings": {
+        "heading": "Promotion 287",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-287.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 288",
+      "section": "legacy-promo-288",
+      "settings": {
+        "heading": "Promotion 288",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-288.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 289",
+      "section": "legacy-promo-289",
+      "settings": {
+        "heading": "Promotion 289",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-289.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 290",
+      "section": "legacy-promo-290",
+      "settings": {
+        "heading": "Promotion 290",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-290.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 291",
+      "section": "legacy-promo-291",
+      "settings": {
+        "heading": "Promotion 291",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-291.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 292",
+      "section": "legacy-promo-292",
+      "settings": {
+        "heading": "Promotion 292",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-292.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 293",
+      "section": "legacy-promo-293",
+      "settings": {
+        "heading": "Promotion 293",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-293.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 294",
+      "section": "legacy-promo-294",
+      "settings": {
+        "heading": "Promotion 294",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-294.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 295",
+      "section": "legacy-promo-295",
+      "settings": {
+        "heading": "Promotion 295",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-295.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 296",
+      "section": "legacy-promo-296",
+      "settings": {
+        "heading": "Promotion 296",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-296.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 297",
+      "section": "legacy-promo-297",
+      "settings": {
+        "heading": "Promotion 297",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-297.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 298",
+      "section": "legacy-promo-298",
+      "settings": {
+        "heading": "Promotion 298",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-298.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 299",
+      "section": "legacy-promo-299",
+      "settings": {
+        "heading": "Promotion 299",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-299.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 300",
+      "section": "legacy-promo-300",
+      "settings": {
+        "heading": "Promotion 300",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-300.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 301",
+      "section": "legacy-promo-301",
+      "settings": {
+        "heading": "Promotion 301",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-301.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 302",
+      "section": "legacy-promo-302",
+      "settings": {
+        "heading": "Promotion 302",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-302.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 303",
+      "section": "legacy-promo-303",
+      "settings": {
+        "heading": "Promotion 303",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-303.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 304",
+      "section": "legacy-promo-304",
+      "settings": {
+        "heading": "Promotion 304",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-304.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 305",
+      "section": "legacy-promo-305",
+      "settings": {
+        "heading": "Promotion 305",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-305.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 306",
+      "section": "legacy-promo-306",
+      "settings": {
+        "heading": "Promotion 306",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-306.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 307",
+      "section": "legacy-promo-307",
+      "settings": {
+        "heading": "Promotion 307",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-307.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 308",
+      "section": "legacy-promo-308",
+      "settings": {
+        "heading": "Promotion 308",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-308.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 309",
+      "section": "legacy-promo-309",
+      "settings": {
+        "heading": "Promotion 309",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-309.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 310",
+      "section": "legacy-promo-310",
+      "settings": {
+        "heading": "Promotion 310",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-310.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 311",
+      "section": "legacy-promo-311",
+      "settings": {
+        "heading": "Promotion 311",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-311.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 312",
+      "section": "legacy-promo-312",
+      "settings": {
+        "heading": "Promotion 312",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-312.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 313",
+      "section": "legacy-promo-313",
+      "settings": {
+        "heading": "Promotion 313",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-313.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 314",
+      "section": "legacy-promo-314",
+      "settings": {
+        "heading": "Promotion 314",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-314.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 315",
+      "section": "legacy-promo-315",
+      "settings": {
+        "heading": "Promotion 315",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-315.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 316",
+      "section": "legacy-promo-316",
+      "settings": {
+        "heading": "Promotion 316",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-316.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 317",
+      "section": "legacy-promo-317",
+      "settings": {
+        "heading": "Promotion 317",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-317.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 318",
+      "section": "legacy-promo-318",
+      "settings": {
+        "heading": "Promotion 318",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-318.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 319",
+      "section": "legacy-promo-319",
+      "settings": {
+        "heading": "Promotion 319",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-319.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 320",
+      "section": "legacy-promo-320",
+      "settings": {
+        "heading": "Promotion 320",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-320.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 321",
+      "section": "legacy-promo-321",
+      "settings": {
+        "heading": "Promotion 321",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-321.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 322",
+      "section": "legacy-promo-322",
+      "settings": {
+        "heading": "Promotion 322",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-322.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 323",
+      "section": "legacy-promo-323",
+      "settings": {
+        "heading": "Promotion 323",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-323.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 324",
+      "section": "legacy-promo-324",
+      "settings": {
+        "heading": "Promotion 324",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-324.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 325",
+      "section": "legacy-promo-325",
+      "settings": {
+        "heading": "Promotion 325",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-325.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 326",
+      "section": "legacy-promo-326",
+      "settings": {
+        "heading": "Promotion 326",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-326.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 327",
+      "section": "legacy-promo-327",
+      "settings": {
+        "heading": "Promotion 327",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-327.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 328",
+      "section": "legacy-promo-328",
+      "settings": {
+        "heading": "Promotion 328",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-328.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 329",
+      "section": "legacy-promo-329",
+      "settings": {
+        "heading": "Promotion 329",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-329.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 330",
+      "section": "legacy-promo-330",
+      "settings": {
+        "heading": "Promotion 330",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-330.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 331",
+      "section": "legacy-promo-331",
+      "settings": {
+        "heading": "Promotion 331",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-331.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 332",
+      "section": "legacy-promo-332",
+      "settings": {
+        "heading": "Promotion 332",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-332.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 333",
+      "section": "legacy-promo-333",
+      "settings": {
+        "heading": "Promotion 333",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-333.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 334",
+      "section": "legacy-promo-334",
+      "settings": {
+        "heading": "Promotion 334",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-334.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 335",
+      "section": "legacy-promo-335",
+      "settings": {
+        "heading": "Promotion 335",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-335.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 336",
+      "section": "legacy-promo-336",
+      "settings": {
+        "heading": "Promotion 336",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-336.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 337",
+      "section": "legacy-promo-337",
+      "settings": {
+        "heading": "Promotion 337",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-337.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 338",
+      "section": "legacy-promo-338",
+      "settings": {
+        "heading": "Promotion 338",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-338.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 339",
+      "section": "legacy-promo-339",
+      "settings": {
+        "heading": "Promotion 339",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-339.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 340",
+      "section": "legacy-promo-340",
+      "settings": {
+        "heading": "Promotion 340",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-340.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 341",
+      "section": "legacy-promo-341",
+      "settings": {
+        "heading": "Promotion 341",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-341.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 342",
+      "section": "legacy-promo-342",
+      "settings": {
+        "heading": "Promotion 342",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-342.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 343",
+      "section": "legacy-promo-343",
+      "settings": {
+        "heading": "Promotion 343",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-343.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 344",
+      "section": "legacy-promo-344",
+      "settings": {
+        "heading": "Promotion 344",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-344.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 345",
+      "section": "legacy-promo-345",
+      "settings": {
+        "heading": "Promotion 345",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-345.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 346",
+      "section": "legacy-promo-346",
+      "settings": {
+        "heading": "Promotion 346",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-346.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 347",
+      "section": "legacy-promo-347",
+      "settings": {
+        "heading": "Promotion 347",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-347.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 348",
+      "section": "legacy-promo-348",
+      "settings": {
+        "heading": "Promotion 348",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-348.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 349",
+      "section": "legacy-promo-349",
+      "settings": {
+        "heading": "Promotion 349",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-349.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 350",
+      "section": "legacy-promo-350",
+      "settings": {
+        "heading": "Promotion 350",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-350.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 351",
+      "section": "legacy-promo-351",
+      "settings": {
+        "heading": "Promotion 351",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-351.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 352",
+      "section": "legacy-promo-352",
+      "settings": {
+        "heading": "Promotion 352",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-352.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 353",
+      "section": "legacy-promo-353",
+      "settings": {
+        "heading": "Promotion 353",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-353.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 354",
+      "section": "legacy-promo-354",
+      "settings": {
+        "heading": "Promotion 354",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-354.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 355",
+      "section": "legacy-promo-355",
+      "settings": {
+        "heading": "Promotion 355",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-355.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 356",
+      "section": "legacy-promo-356",
+      "settings": {
+        "heading": "Promotion 356",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-356.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 357",
+      "section": "legacy-promo-357",
+      "settings": {
+        "heading": "Promotion 357",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-357.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 358",
+      "section": "legacy-promo-358",
+      "settings": {
+        "heading": "Promotion 358",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-358.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 359",
+      "section": "legacy-promo-359",
+      "settings": {
+        "heading": "Promotion 359",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-359.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 360",
+      "section": "legacy-promo-360",
+      "settings": {
+        "heading": "Promotion 360",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-360.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 361",
+      "section": "legacy-promo-361",
+      "settings": {
+        "heading": "Promotion 361",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-361.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 362",
+      "section": "legacy-promo-362",
+      "settings": {
+        "heading": "Promotion 362",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-362.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 363",
+      "section": "legacy-promo-363",
+      "settings": {
+        "heading": "Promotion 363",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-363.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 364",
+      "section": "legacy-promo-364",
+      "settings": {
+        "heading": "Promotion 364",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-364.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 365",
+      "section": "legacy-promo-365",
+      "settings": {
+        "heading": "Promotion 365",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-365.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 366",
+      "section": "legacy-promo-366",
+      "settings": {
+        "heading": "Promotion 366",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-366.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 367",
+      "section": "legacy-promo-367",
+      "settings": {
+        "heading": "Promotion 367",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-367.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 368",
+      "section": "legacy-promo-368",
+      "settings": {
+        "heading": "Promotion 368",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-368.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 369",
+      "section": "legacy-promo-369",
+      "settings": {
+        "heading": "Promotion 369",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-369.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 370",
+      "section": "legacy-promo-370",
+      "settings": {
+        "heading": "Promotion 370",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-370.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 371",
+      "section": "legacy-promo-371",
+      "settings": {
+        "heading": "Promotion 371",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-371.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 372",
+      "section": "legacy-promo-372",
+      "settings": {
+        "heading": "Promotion 372",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-372.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 373",
+      "section": "legacy-promo-373",
+      "settings": {
+        "heading": "Promotion 373",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-373.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 374",
+      "section": "legacy-promo-374",
+      "settings": {
+        "heading": "Promotion 374",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-374.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 375",
+      "section": "legacy-promo-375",
+      "settings": {
+        "heading": "Promotion 375",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-375.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 376",
+      "section": "legacy-promo-376",
+      "settings": {
+        "heading": "Promotion 376",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-376.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 377",
+      "section": "legacy-promo-377",
+      "settings": {
+        "heading": "Promotion 377",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-377.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 378",
+      "section": "legacy-promo-378",
+      "settings": {
+        "heading": "Promotion 378",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-378.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 379",
+      "section": "legacy-promo-379",
+      "settings": {
+        "heading": "Promotion 379",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-379.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 380",
+      "section": "legacy-promo-380",
+      "settings": {
+        "heading": "Promotion 380",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-380.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 381",
+      "section": "legacy-promo-381",
+      "settings": {
+        "heading": "Promotion 381",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-381.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 382",
+      "section": "legacy-promo-382",
+      "settings": {
+        "heading": "Promotion 382",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-382.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 383",
+      "section": "legacy-promo-383",
+      "settings": {
+        "heading": "Promotion 383",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-383.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 384",
+      "section": "legacy-promo-384",
+      "settings": {
+        "heading": "Promotion 384",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-384.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 385",
+      "section": "legacy-promo-385",
+      "settings": {
+        "heading": "Promotion 385",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-385.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 386",
+      "section": "legacy-promo-386",
+      "settings": {
+        "heading": "Promotion 386",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-386.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 387",
+      "section": "legacy-promo-387",
+      "settings": {
+        "heading": "Promotion 387",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-387.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 388",
+      "section": "legacy-promo-388",
+      "settings": {
+        "heading": "Promotion 388",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-388.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 389",
+      "section": "legacy-promo-389",
+      "settings": {
+        "heading": "Promotion 389",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-389.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 390",
+      "section": "legacy-promo-390",
+      "settings": {
+        "heading": "Promotion 390",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-390.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 391",
+      "section": "legacy-promo-391",
+      "settings": {
+        "heading": "Promotion 391",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-391.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 392",
+      "section": "legacy-promo-392",
+      "settings": {
+        "heading": "Promotion 392",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-392.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 393",
+      "section": "legacy-promo-393",
+      "settings": {
+        "heading": "Promotion 393",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-393.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 394",
+      "section": "legacy-promo-394",
+      "settings": {
+        "heading": "Promotion 394",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-394.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 395",
+      "section": "legacy-promo-395",
+      "settings": {
+        "heading": "Promotion 395",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-395.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 396",
+      "section": "legacy-promo-396",
+      "settings": {
+        "heading": "Promotion 396",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-396.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 397",
+      "section": "legacy-promo-397",
+      "settings": {
+        "heading": "Promotion 397",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-397.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 398",
+      "section": "legacy-promo-398",
+      "settings": {
+        "heading": "Promotion 398",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-398.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 399",
+      "section": "legacy-promo-399",
+      "settings": {
+        "heading": "Promotion 399",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-399.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 400",
+      "section": "legacy-promo-400",
+      "settings": {
+        "heading": "Promotion 400",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-400.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 401",
+      "section": "legacy-promo-401",
+      "settings": {
+        "heading": "Promotion 401",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-401.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 402",
+      "section": "legacy-promo-402",
+      "settings": {
+        "heading": "Promotion 402",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-402.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 403",
+      "section": "legacy-promo-403",
+      "settings": {
+        "heading": "Promotion 403",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-403.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 404",
+      "section": "legacy-promo-404",
+      "settings": {
+        "heading": "Promotion 404",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-404.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 405",
+      "section": "legacy-promo-405",
+      "settings": {
+        "heading": "Promotion 405",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-405.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 406",
+      "section": "legacy-promo-406",
+      "settings": {
+        "heading": "Promotion 406",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-406.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 407",
+      "section": "legacy-promo-407",
+      "settings": {
+        "heading": "Promotion 407",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-407.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 408",
+      "section": "legacy-promo-408",
+      "settings": {
+        "heading": "Promotion 408",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-408.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 409",
+      "section": "legacy-promo-409",
+      "settings": {
+        "heading": "Promotion 409",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-409.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 410",
+      "section": "legacy-promo-410",
+      "settings": {
+        "heading": "Promotion 410",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-410.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 411",
+      "section": "legacy-promo-411",
+      "settings": {
+        "heading": "Promotion 411",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-411.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 412",
+      "section": "legacy-promo-412",
+      "settings": {
+        "heading": "Promotion 412",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-412.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 413",
+      "section": "legacy-promo-413",
+      "settings": {
+        "heading": "Promotion 413",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-413.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 414",
+      "section": "legacy-promo-414",
+      "settings": {
+        "heading": "Promotion 414",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-414.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 415",
+      "section": "legacy-promo-415",
+      "settings": {
+        "heading": "Promotion 415",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-415.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 416",
+      "section": "legacy-promo-416",
+      "settings": {
+        "heading": "Promotion 416",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-416.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 417",
+      "section": "legacy-promo-417",
+      "settings": {
+        "heading": "Promotion 417",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-417.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 418",
+      "section": "legacy-promo-418",
+      "settings": {
+        "heading": "Promotion 418",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-418.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 419",
+      "section": "legacy-promo-419",
+      "settings": {
+        "heading": "Promotion 419",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-419.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 420",
+      "section": "legacy-promo-420",
+      "settings": {
+        "heading": "Promotion 420",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-420.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 421",
+      "section": "legacy-promo-421",
+      "settings": {
+        "heading": "Promotion 421",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-421.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 422",
+      "section": "legacy-promo-422",
+      "settings": {
+        "heading": "Promotion 422",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-422.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 423",
+      "section": "legacy-promo-423",
+      "settings": {
+        "heading": "Promotion 423",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-423.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 424",
+      "section": "legacy-promo-424",
+      "settings": {
+        "heading": "Promotion 424",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-424.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 425",
+      "section": "legacy-promo-425",
+      "settings": {
+        "heading": "Promotion 425",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-425.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 426",
+      "section": "legacy-promo-426",
+      "settings": {
+        "heading": "Promotion 426",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-426.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 427",
+      "section": "legacy-promo-427",
+      "settings": {
+        "heading": "Promotion 427",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-427.jpg",
+        "colour_scheme": "scheme-3",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 428",
+      "section": "legacy-promo-428",
+      "settings": {
+        "heading": "Promotion 428",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-428.jpg",
+        "colour_scheme": "scheme-0",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 429",
+      "section": "legacy-promo-429",
+      "settings": {
+        "heading": "Promotion 429",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-429.jpg",
+        "colour_scheme": "scheme-1",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    },
+    {
+      "name": "Preset 430",
+      "section": "legacy-promo-430",
+      "settings": {
+        "heading": "Promotion 430",
+        "subheading": "Kept from a theme version nobody removed",
+        "image": "assets/legacy-promo-430.jpg",
+        "colour_scheme": "scheme-2",
+        "layout": "two-column",
+        "show_countdown": false
+      }
+    }
+  ]
+}

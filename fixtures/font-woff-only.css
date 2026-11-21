@@ -1,0 +1,13 @@
+/* A face that offers only the older compressed format. */
+@font-face {
+  font-family: "Store Serif";
+  src: url("/assets/store-serif.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1,
+h2 {
+  font-family: "Store Serif", Georgia, serif;
+}
