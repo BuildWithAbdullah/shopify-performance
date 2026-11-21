@@ -1,0 +1,33 @@
+{
+  "name": "shopify-performance",
+  "version": "1.0.0",
+  "description": "Shopify theme performance patterns with a checker that proves each one.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.18.1"
+  },
+  "bin": {
+    "shopify-perf": "bin/shopify-perf.mjs"
+  },
+  "exports": {
+    ".": "./src/audit.mjs",
+    "./catalogue": "./src/catalogue.mjs"
+  },
+  "files": [
+    "bin",
+    "src",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test test/catalogue.test.mjs test/scan.test.mjs test/checks.test.mjs test/pairs.test.mjs test/corpus.test.mjs test/cli.test.mjs test/tools.test.mjs test/verify.test.mjs test/perturbation.test.mjs",
+    "count": "node tools/count-tests.mjs",
+    "verify": "node tools/verify.mjs",
+    "exit-codes": "node tools/exit-codes.mjs",
+    "verdicts": "node tools/audit-verdicts.mjs",
+    "entry": "node tools/entry-thin.mjs",
+    "docs": "node tools/gen-docs.mjs",
+    "docs:check": "node tools/gen-docs.mjs --check"
+  }
+}
