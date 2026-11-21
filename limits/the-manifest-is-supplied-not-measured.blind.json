@@ -1,0 +1,8 @@
+{
+  "shopify_perf_input": "asset-manifest",
+  "theme": "example-theme",
+  "assets": [
+    { "path": "assets/theme.min.js", "bytes": 90000, "referenced": true },
+    { "path": "assets/vendor.min.js", "bytes": 110000, "referenced": true }
+  ]
+}

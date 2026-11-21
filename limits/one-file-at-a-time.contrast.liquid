@@ -1,0 +1,8 @@
+<section class="featured">
+  <h2>{{ section.settings.heading }}</h2>
+  <div class="product-grid">
+    {% for product in collection.products %}
+      <p>{{ product.title }}</p>
+    {% endfor %}
+  </div>
+</section>

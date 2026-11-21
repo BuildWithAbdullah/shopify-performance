@@ -1,0 +1,10 @@
+# A permanent redirect on a stable URL, cached for a year. The URL cannot be
+# fixed inside that year in any client that holds it, which is the same problem
+# the asset rule is about, and nothing here reports it.
+>>> GET /assets/legacy.js
+301
+content-type: text/javascript
+location: /assets/legacy.1a2b3c4d5e6f.js
+content-encoding: br
+vary: Accept-Encoding
+cache-control: public, max-age=31536000, immutable

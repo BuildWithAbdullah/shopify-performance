@@ -1,0 +1,6 @@
+>>> GET /assets/legacy.js
+200
+content-type: text/javascript
+content-encoding: br
+vary: Accept-Encoding
+cache-control: public, max-age=31536000, immutable
