@@ -1,0 +1,87 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node: ['20.18.1', '22.23.5', '24.11.1']
+    name: node ${{ matrix.node }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - name: report the version actually installed
+        run: node --version
+      - name: the suite
+        run: npm test
+      - name: the real binary over every artefact, by path and through a symlink
+        run: node tools/exit-codes.mjs
+      - name: the checkers over every artefact
+        run: node tools/audit-verdicts.mjs
+      - name: the entry point stays wiring
+        run: node tools/entry-thin.mjs
+
+  verifier:
+    runs-on: ubuntu-latest
+    name: verifier
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.23.5'
+      - name: every claim this repository makes about itself
+        run: node tools/verify.mjs
+
+  documents:
+    runs-on: ubuntu-latest
+    name: documents
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.23.5'
+      - name: the generated documents are not stale
+        run: node tools/gen-docs.mjs --check
+
+  engines:
+    runs-on: ubuntu-latest
+    name: engines
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20.18.1'
+      - name: the floor names the exact version that is installed
+        run: |
+          installed="$(node --version)"
+          floor="v$(node -e 'process.stdout.write(require("./package.json").engines.node.replace(">=",""))')"
+          echo "installed $installed, floor $floor"
+          test "$installed" = "$floor"
+      - name: installing at the floor is allowed
+        run: npm install --engine-strict
+
+  engines-refusal:
+    runs-on: ubuntu-latest
+    name: engines-refusal
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.23.5'
+      - name: a floor above the runtime is refused, which proves the floor is enforced
+        run: |
+          node -e 'const fs=require("fs");const p=JSON.parse(fs.readFileSync("package.json","utf8"));p.engines.node=">=99.0.0";fs.writeFileSync("package.json",JSON.stringify(p,null,2));'
+          if npm install --engine-strict; then
+            echo "the install succeeded against an impossible floor, so nothing is enforced"
+            exit 1
+          fi
+          echo "refused, as it must be"
