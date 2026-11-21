@@ -1,0 +1,11 @@
+@import url("/assets/vendor-reset.css");
+
+:root {
+  --page-width: 1200px;
+  --text: #1c1c1c;
+}
+
+body {
+  color: var(--text);
+  margin: 0;
+}

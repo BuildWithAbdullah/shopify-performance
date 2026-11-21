@@ -1,0 +1,18 @@
+{
+  "shopify_perf_input": "theme-settings",
+  "sections_present": ["header", "footer", "product", "collection", "cart-drawer"],
+  "setting_requires_section": {
+    "enable_countdown": "countdown-bar",
+    "enable_parallax": "parallax-hero",
+    "enable_quick_view": "product"
+  },
+  "setting_loads_library": {
+    "enable_parallax": "assets/parallax-engine.min.js"
+  },
+  "current": {
+    "enable_countdown": false,
+    "enable_parallax": false,
+    "enable_quick_view": true,
+    "show_vendor": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "shopify_perf_input": "asset-manifest",
+  "theme": "example-theme",
+  "assets": [
+    { "path": "assets/theme.js", "bytes": 180000, "referenced": true },
+    { "path": "assets/theme.min.js", "bytes": 90000, "referenced": true },
+    { "path": "assets/vendor.js", "bytes": 140000, "referenced": true },
+    { "path": "assets/theme.js.map", "bytes": 420000, "referenced": false },
+    { "path": "assets/hero-kitchen.jpg", "bytes": 980000, "referenced": true },
+    { "path": "assets/old-banner.png", "bytes": 120000, "referenced": false }
+  ]
+}

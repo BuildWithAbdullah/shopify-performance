@@ -1,0 +1,8 @@
+{% for collection in collections %}
+  <section class="shelf">
+    <h2>{{ collection.title }}</h2>
+    {% for product in collection.products %}
+      <p>{{ product.title }}</p>
+    {% endfor %}
+  </section>
+{% endfor %}

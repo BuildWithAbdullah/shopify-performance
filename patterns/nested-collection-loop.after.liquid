@@ -1,0 +1,8 @@
+{% assign featured = collections[section.settings.collection] %}
+<section class="shelf">
+  <h2>{{ featured.title }}</h2>
+  {% for product in featured.products limit: 8 %}
+    <p>{{ product.title }}</p>
+  {% endfor %}
+  <a href="{{ featured.url }}">See all</a>
+</section>

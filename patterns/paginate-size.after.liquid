@@ -1,0 +1,8 @@
+{% paginate collection.products by 24 %}
+  <div class="product-grid">
+    {% for product in collection.products limit: 24 %}
+      <p>{{ product.title }}</p>
+    {% endfor %}
+  </div>
+  {{ paginate | default_pagination }}
+{% endpaginate %}

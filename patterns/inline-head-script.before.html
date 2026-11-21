@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Home</title>
+  <link rel="stylesheet" href="/assets/theme.css">
+  <script>
+    window.ThemeBoot = window.ThemeBoot || {};
+    window.ThemeBoot.features = {};
+    window.ThemeBoot.detect = function (name, test) {
+      try {
+        window.ThemeBoot.features[name] = Boolean(test());
+      } catch (error) {
+        window.ThemeBoot.features[name] = false;
+      }
+      return window.ThemeBoot.features[name];
+    };
+    window.ThemeBoot.detect('webp', function () {
+      var canvas = document.createElement('canvas'); return canvas.toDataURL('image/webp').indexOf('image/webp') === 5;
+    });
+    window.ThemeBoot.detect('avif', function () {
+      return typeof window.createImageBitmap === 'function';
+    });
+    window.ThemeBoot.detect('intersection', function () {
+      return 'IntersectionObserver' in window;
+    });
+    window.ThemeBoot.detect('storage', function () {
+      window.localStorage.setItem('t', '1'); window.localStorage.removeItem('t'); return true;
+    });
+    window.ThemeBoot.detect('passive', function () {
+      var used = false; var options = Object.defineProperty({}, 'passive', { get: function () { used = true; return true; } }); window.addEventListener('x', null, options); return used;
+    });
+    window.ThemeBoot.detect('hover', function () {
+      return window.matchMedia('(hover: hover)').matches;
+    });
+    window.ThemeBoot.detect('reduced', function () {
+      return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    });
+    window.ThemeBoot.detect('containment', function () {
+      return CSS.supports('contain', 'layout');
+    });
+    window.ThemeBoot.detect('clamp', function () {
+      return CSS.supports('width', 'clamp(1rem, 2vw, 3rem)');
+    });
+    window.ThemeBoot.detect('aspect', function () {
+      return CSS.supports('aspect-ratio', '1 / 1');
+    });
+    window.ThemeBoot.detect('webgl', function () {
+      var canvas = document.createElement('canvas');
+      return Boolean(canvas.getContext('webgl') || canvas.getContext('experimental-webgl'));
+    });
+    window.ThemeBoot.detect('touch', function () {
+      return 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+    });
+    window.ThemeBoot.detect('save-data', function () {
+      return Boolean(navigator.connection && navigator.connection.saveData);
+    });
+    document.documentElement.className += Object.keys(window.ThemeBoot.features)
+      .filter(function (key) { return window.ThemeBoot.features[key]; })
+      .map(function (key) { return ' has-' + key; })
+      .join('');
+  </script>
+</head>
+<body>
+  <h1>Everything for the kitchen</h1>
+</body>
+</html>

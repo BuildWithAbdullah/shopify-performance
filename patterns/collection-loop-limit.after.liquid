@@ -1,0 +1,14 @@
+{% assign capacity_label = collection.metafields.specs.capacity_label %}
+<div class="product-grid">
+  {% for product in collection.products limit: 12 %}
+    <a class="card" href="{{ product.url }}">
+      <img
+        src="{{ product.featured_image | image_url: width: 400 }}"
+        width="400"
+        height="400"
+        alt="{{ product.title }}">
+      <span class="card__title">{{ product.title }}</span>
+      <span class="card__spec">{{ capacity_label }}</span>
+    </a>
+  {% endfor %}
+</div>

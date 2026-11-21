@@ -1,0 +1,7 @@
+<ul class="new-in">
+  {% for product in collections.all.products %}
+    {% if product.tags contains 'new' %}
+      <li>{{ product.title }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>

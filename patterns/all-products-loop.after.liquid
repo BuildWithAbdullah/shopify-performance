@@ -1,0 +1,5 @@
+<ul class="new-in">
+  {% for product in collections['new-arrivals'].products limit: 12 %}
+    <li>{{ product.title }}</li>
+  {% endfor %}
+</ul>

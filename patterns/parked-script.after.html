@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Support</title>
+  <link rel="stylesheet" href="/assets/theme.css">
+</head>
+<body>
+  <h1>Talk to us</h1>
+  <button type="button" id="open-chat">Open chat</button>
+  <script type="text/plain" data-src="https://widget.example.net/chat.js"></script>
+  <script>
+    document.getElementById('open-chat').addEventListener(
+      'click',
+      function () {
+        var parked = document.querySelector('script[type="text/plain"]');
+        var live = document.createElement('script');
+        live.src = parked.getAttribute('data-src');
+        document.head.appendChild(live);
+      },
+      { once: true }
+    );
+  </script>
+</body>
+</html>

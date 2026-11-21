@@ -1,0 +1,9 @@
+<div class="product-grid">
+  {% for product in collection.products %}
+    <a class="card" href="{{ product.url }}">
+      <img src="{{ product.featured_image | img_url }}" alt="{{ product.title }}">
+      <span class="card__title">{{ product.title }}</span>
+      <span class="card__spec">{{ product.metafields.specs.capacity }}</span>
+    </a>
+  {% endfor %}
+</div>

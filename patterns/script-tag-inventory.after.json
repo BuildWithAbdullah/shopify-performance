@@ -1,0 +1,19 @@
+{
+  "shopify_perf_input": "script-tags",
+  "script_tags": [
+    {
+      "src": "https://widget.example.net/order-tracking.js",
+      "event": "onload",
+      "display_scope": "order_status",
+      "purpose": "Order status page tracking",
+      "app_installed": true
+    },
+    {
+      "src": "https://reviews.example.org/widget.js",
+      "event": "onload",
+      "display_scope": "online_store",
+      "purpose": "Product reviews on product pages",
+      "app_installed": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "shopify_perf_input": "script-tags",
+  "script_tags": [
+    {
+      "src": "https://widget.example.net/order-tracking.js",
+      "event": "onload",
+      "display_scope": "all",
+      "purpose": "Order status page tracking",
+      "app_installed": true
+    },
+    {
+      "src": "https://analytics.example.com/legacy-pixel.js",
+      "event": "onload",
+      "display_scope": "online_store",
+      "purpose": "Legacy analytics pixel",
+      "app_installed": false
+    },
+    {
+      "src": "https://reviews.example.org/widget.js",
+      "event": "onload",
+      "display_scope": "online_store",
+      "purpose": "Product reviews on product pages",
+      "app_installed": true
+    }
+  ]
+}
